@@ -1,0 +1,7 @@
+Files denoted "SIG" correspond to process 123 in MCFM7.0 (https://github.com/JHUGen/JHUGen/blob/master/MCFM-JHUGen/Doc/mcfm.pdf):
+H(→ W+(ν(p3) + e+(p4)) + W−(e−(p5) + ν ̄(p6))) [top, bottom loops, exact] LO
+
+Files denoted "SBI" correspond to process 126 in MCFM7.0:
+126  W +(ν(p3) + e+(p4)) + W −(e−(p5) + ν ̄(p6)) [gg only, (H + gg→WW) squared] LO
+
+Gridpacks house all of the necessary ingredients to make a central production of each process, utilizing 9 input files per process to account for final state lepton mixtures, as well as grids from which the .lhe files are produced.
